@@ -11,3 +11,4 @@ This is simple calculator app written in vanilla javascript.
 - backspace
 
 If you want to play with it, check out at:
+https://htmlpreview.github.io/?https://github.com/Nowikens/Calculator/blob/main/site.html
